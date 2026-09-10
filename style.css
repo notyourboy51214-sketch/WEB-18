@@ -8,10 +8,10 @@
   --text-dark: #000000;
   --text-light: #FFFFFF;
   --accent: #737373;
-  --font-display: 'Montserrat', sans-serif;
-  --font-body: 'Open Sans', sans-serif;
-  --border-radius: 13px;
-  --box-shadow: 8px 8px 0px 0px var(--primary);
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --border-radius: 14px;
+  --box-shadow: none;
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
